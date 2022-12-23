@@ -5,3 +5,5 @@ So I suppose if I try to trace what I did in a day, it may help me control my li
 To use this app, you need to login first. But be sure not to use "dog" as a username.
 I have input some synthetic data in it, and it shows how the content will display. Ofcourse you can delete them.
 The only thing you need to do is to select type and duration of what you have done and see the change of records.
+
+To start the project on your machine, run with `npm install`, `npm run build`, `npm start`.
